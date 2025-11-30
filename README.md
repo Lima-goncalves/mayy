@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Maya Water Tracker App
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# mayy
+registre seu consumo de agua 
+>>>>>>> bd533cfd98f6bcd04778c3e6d0a0e9fdc63cabc7
